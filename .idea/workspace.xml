@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="google search">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/LibraryVerifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="library verification exl 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671611205421</updated>
-      <workItem from="1671611210778" duration="18096000" />
+      <workItem from="1671611210778" duration="18436000" />
     </task>
     <task id="LOCAL-00001" summary="Setup and open chrome, get google">
       <created>1671654057613</created>
@@ -209,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671696977143</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="library verification exl 6">
+      <created>1671702948735</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671702948735</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +247,8 @@
     <MESSAGE value="verify yahoo title" />
     <MESSAGE value="URL and title changes" />
     <MESSAGE value="google search" />
-    <option name="LAST_COMMIT_MESSAGE" value="google search" />
+    <MESSAGE value="library verification exl 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="library verification exl 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
