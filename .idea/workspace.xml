@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="library verification exl 6" />
+    <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="library verification exl 6">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/getTextAndGetAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GoogleSearch">
+  <component name="RunManager" selected="Application.getTextAndGetAttribute">
     <configuration name="Day1_task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Day1_task1" />
       <module name="SeleniumPracticeproject" />
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.SeleniumTest" />
+    <configuration name="getTextAndGetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.getTextAndGetAttribute" />
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getTextAndGetAttribute" />
         <item itemvalue="Application.GoogleSearch" />
         <item itemvalue="Application.Day2_task2" />
         <item itemvalue="Application.Day2_task1" />
         <item itemvalue="Application.Day1_task1" />
-        <item itemvalue="Application.SeleniumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671611205421</updated>
-      <workItem from="1671611210778" duration="18436000" />
+      <workItem from="1671611210778" duration="21453000" />
     </task>
     <task id="LOCAL-00001" summary="Setup and open chrome, get google">
       <created>1671654057613</created>
@@ -213,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671702948735</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="library verification exl 6">
+      <created>1671704233880</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671704233880</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
