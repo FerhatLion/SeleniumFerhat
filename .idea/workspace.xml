@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="library verification exl 6">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/getTextAndGetAttribute.java" afterDir="false" />
+    <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="gettext and getattribute">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/Day2_homework1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,24 +42,24 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.getTextAndGetAttribute">
-    <configuration name="Day1_task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Day1_task1" />
+}</component>
+  <component name="RunManager" selected="Application.Day2_homework1">
+    <configuration name="Day2_homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework1" />
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2_homework1" />
         <item itemvalue="Application.getTextAndGetAttribute" />
         <item itemvalue="Application.GoogleSearch" />
         <item itemvalue="Application.Day2_task2" />
         <item itemvalue="Application.Day2_task1" />
-        <item itemvalue="Application.Day1_task1" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671611205421</updated>
-      <workItem from="1671611210778" duration="21453000" />
+      <workItem from="1671611210778" duration="22257000" />
+      <workItem from="1671721931333" duration="2886000" />
     </task>
     <task id="LOCAL-00001" summary="Setup and open chrome, get google">
       <created>1671654057613</created>
@@ -223,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671704233880</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="gettext and getattribute">
+      <created>1671706778288</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671706778288</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +266,8 @@
     <MESSAGE value="URL and title changes" />
     <MESSAGE value="google search" />
     <MESSAGE value="library verification exl 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="library verification exl 6" />
+    <MESSAGE value="gettext and getattribute" />
+    <option name="LAST_COMMIT_MESSAGE" value="gettext and getattribute" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
