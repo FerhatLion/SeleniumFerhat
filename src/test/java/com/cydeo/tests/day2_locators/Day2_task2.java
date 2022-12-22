@@ -3,6 +3,7 @@ package com.cydeo.tests.day2_locators;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Day2_task2 {
@@ -16,10 +17,12 @@ public class Day2_task2 {
        // 2- Go to: https://practice.cydeo.com
 
         driver.navigate().to("https://practice.cydeo.com");
+        //Thread.sleep(2000);
 
         // 3- Click to A/B Testing from top of the list.
 
-        driver.findElement(By.linkText("A/B Testing")).click();
+        WebElement abTestlink = driver.findElement(By.linkText("A/B Testing"));
+        abTestlink.click();
 
         // 4- Verify title is:  Expected: No A/B Test
 
@@ -27,9 +30,9 @@ public class Day2_task2 {
         String actualTitle = driver.getTitle();
 
         if(actualTitle.equals(expectedTitle)){
-            System.out.println("Title verification passed.");
+            System.out.println("Title verification PASSED!.");
         }else{
-            System.out.println("Title verification failed.");
+            System.out.println("Title verification FAILED!!!.");
         }
 
         //  5- Go back to home page by using the .back();
@@ -42,9 +45,9 @@ public class Day2_task2 {
         String expectedTitleHome = "Practice";
 
         if (actualTitleHome.equals(expectedTitleHome)){
-            System.out.println("Home title verification passed.");
+            System.out.println("Home title verification PASSED!.");
         }else{
-            System.out.println("Home title verification failed.");
+            System.out.println("Home title verification FAILED.");
         }
 
         driver.close();
