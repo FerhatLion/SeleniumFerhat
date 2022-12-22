@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="Etsy">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/Day2_homework2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/Day2_homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/Day2_homework3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day2_homework2">
+  <component name="RunManager" selected="Application.Day2_homework3">
     <configuration name="Day2_homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework1" />
       <module name="SeleniumPracticeproject" />
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2_task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_task2" />
+    <configuration name="Day2_homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework3" />
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2_homework3" />
         <item itemvalue="Application.Day2_homework2" />
         <item itemvalue="Application.Day2_homework1" />
         <item itemvalue="Application.getTextAndGetAttribute" />
         <item itemvalue="Application.GoogleSearch" />
-        <item itemvalue="Application.Day2_task2" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <updated>1671611205421</updated>
       <workItem from="1671611210778" duration="22257000" />
       <workItem from="1671721931333" duration="6150000" />
-      <workItem from="1671731603662" duration="788000" />
+      <workItem from="1671731603662" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="Setup and open chrome, get google">
       <created>1671654057613</created>
@@ -240,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671725167920</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Etsy">
+      <created>1671732838842</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671732838842</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
