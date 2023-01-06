@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="Etsy">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators/Day2_homework4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelectorAndXPath/Day3_Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day2_homework4">
+  <component name="RunManager" selected="Application.Day3_Task1">
     <configuration name="Day2_homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework1" />
       <module name="SeleniumPracticeproject" />
@@ -107,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getTextAndGetAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.getTextAndGetAttribute" />
+    <configuration name="Day3_Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelectorAndXPath.Day3_Task1" />
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelectorAndXPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day3_Task1" />
         <item itemvalue="Application.Day2_homework4" />
         <item itemvalue="Application.Day2_homework3" />
         <item itemvalue="Application.Day2_homework2" />
         <item itemvalue="Application.Day2_homework1" />
-        <item itemvalue="Application.getTextAndGetAttribute" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +144,8 @@
       <workItem from="1671721931333" duration="6150000" />
       <workItem from="1671731603662" duration="6572000" />
       <workItem from="1672035988310" duration="14000" />
+      <workItem from="1672330690087" duration="7421000" />
+      <workItem from="1672866824264" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Setup and open chrome, get google">
       <created>1671654057613</created>
@@ -255,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671737351967</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Etsy">
+      <created>1672330727261</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672330727261</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
