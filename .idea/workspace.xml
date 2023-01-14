@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0812c9d-44f3-48ab-9b59-ffce0744e279" name="Changes" comment="Etsy">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelectorAndXPath/Day3_Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelectorAndXPath/Day3_Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelectorAndXPath/Day3_Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelectorAndXPath/Day3_Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelectorAndXPath/Day4_Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_chechkBox_radioButton/Day4_Task1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_chechkBox_radioButton/Day4_Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_chechkBox_radioButton/Day4_Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_chechkBox_radioButton/Day4_Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_chechkBox_radioButton/Day4_Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/Day5_Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/TestNG_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5_dynamicWebElements_TestNGIntro_dropdowns/TestNG_Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alert_iframes_windows/Day6_Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alert_iframes_windows/Day6_Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alert_iframes_windows/Day6_Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ReadingProperties.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,79 +77,104 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day3_Task1">
-    <configuration name="Day2_homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework1" />
+  <component name="RunManager" selected="TestNG.ReadingProperties.reading_from_properties_test">
+    <configuration name="Day6_Task1.jalert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alert_iframes_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alert_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alert_iframes_windows.Day6_Task1" />
+      <option name="METHOD_NAME" value="jalert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2_homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework2" />
+    <configuration name="Day6_Task1.selenium_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alert_iframes_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alert_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alert_iframes_windows.Day6_Task1" />
+      <option name="METHOD_NAME" value="selenium_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2_homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework3" />
+    <configuration name="Day6_Task2.selenium_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alert_iframes_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alert_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alert_iframes_windows.Day6_Task2" />
+      <option name="METHOD_NAME" value="selenium_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day2_homework4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators.Day2_homework4" />
+    <configuration name="Day6_Task3.selenium_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alert_iframes_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alert_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alert_iframes_windows.Day6_Task3" />
+      <option name="METHOD_NAME" value="selenium_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3_Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelectorAndXPath.Day3_Task1" />
+    <configuration name="ReadingProperties.reading_from_properties_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPracticeproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelectorAndXPath.*" />
+          <option name="PATTERN" value="com.cydeo.utilities.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.utilities.ReadingProperties" />
+      <option name="METHOD_NAME" value="reading_from_properties_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day3_Task1" />
-        <item itemvalue="Application.Day2_homework4" />
-        <item itemvalue="Application.Day2_homework3" />
-        <item itemvalue="Application.Day2_homework2" />
-        <item itemvalue="Application.Day2_homework1" />
+        <item itemvalue="TestNG.ReadingProperties.reading_from_properties_test" />
+        <item itemvalue="TestNG.Day6_Task3.selenium_test" />
+        <item itemvalue="TestNG.Day6_Task2.selenium_test" />
+        <item itemvalue="TestNG.Day6_Task1.selenium_test" />
+        <item itemvalue="TestNG.Day6_Task1.jalert" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +192,12 @@
       <workItem from="1672035988310" duration="14000" />
       <workItem from="1672330690087" duration="7421000" />
       <workItem from="1672866824264" duration="378000" />
+      <workItem from="1673019383560" duration="31529000" />
+      <workItem from="1673332044207" duration="21885000" />
+      <workItem from="1673440767777" duration="3576000" />
+      <workItem from="1673540262546" duration="6201000" />
+      <workItem from="1673548035467" duration="22000" />
+      <workItem from="1673670525386" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary="Setup and open chrome, get google">
       <created>1671654057613</created>
@@ -266,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672330727261</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Etsy">
+      <created>1673019646519</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673019646519</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
